@@ -1,5 +1,6 @@
 # SD-MVS: Segmentation-Driven Deformation Multi-View Stereo with Spherical Refinement and EM optimization
 
+## About
 SD-MVS is the first method who combines the instance segmentation model **SAM** with multi-view stereo(**MVS**) algorithm to address limited receptive field of PatchMatch-based MVS.
 
 Our paper was accepted by **AAAI2024**!
