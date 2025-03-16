@@ -27,4 +27,5 @@ Code is coming soon.
 
 ## Acknowledgements
 
-This code largely benefits from the following repositories: [ACMMP](https://github.com/GhiXu/ACMMP.git), [Gipuma](https://github.com/kysucix/gipuma). Thanks to their authors for opening the source of their excellent works.
+This code largely benefits from the following repositories: [ACMMP](https://github.com/GhiXu/ACMMP.git), [SAM](https://github.com/facebookresearch/segment-anything) and [Gipuma](https://github.com/kysucix/gipuma). Thanks to their authors for opening the source of their excellent works.
+https://github.com/facebookresearch/segment-anything
